@@ -241,8 +241,8 @@ li {
 }
 
 #header .header-logo {
-	margin: 16px 0;
-	margin: 1rem 0;
+	margin: 5px 0;
+	margin: .5rem 0;
 	position: relative;
 	z-index: 1;
 }
@@ -1083,6 +1083,7 @@ li {
 #header.header-effect-shrink .header-logo {
 	display: flex;
 	align-items: center;
+	padding: 10px;
 }
 
 #header.header-dark .header-body {
